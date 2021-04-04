@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"alarmclock.obj" 
+TO "alarmclock" 
+RAMSIZE(256) 
