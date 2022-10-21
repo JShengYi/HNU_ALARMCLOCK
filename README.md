@@ -3,6 +3,4 @@
 
 别忘了 `star` 喔~
 
- [![CSDN](https://img.shields.io/badge/CSDN-HNUJSY-red)](https://blog.csdn.net/HNUPCJ)     
-# mysql
-![mysql](./pic/mysql.png)
+ [![CSDN](https://img.shields.io/badge/CSDN-HNUJSY-red)](https://blog.csdn.net/HNUPCJ)   
